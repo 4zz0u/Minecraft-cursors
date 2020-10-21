@@ -7,7 +7,7 @@ You can use it on Windows system (I have not tested on other systems), and the e
 First download the source and extract it
 Open windows settings--personalization--theme--mouse cursor
 Then customize
-![1.png](https://i.loli.net/2018/08/06/5b683535cd0b3.png)
+<img width="960" alt="ApplicationFrameHost_J9PrMQ5mIz" src="https://user-images.githubusercontent.com/35333722/96735827-4063e500-13bc-11eb-8717-f1866e1157dc.png">
 ![2.png](https://i.loli.net/2018/08/06/5b683536085e8.png)
 ![3.png](https://i.loli.net/2018/08/06/5b683535e7b1e.png)
 # Effect
