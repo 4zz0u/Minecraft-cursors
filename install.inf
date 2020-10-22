@@ -36,6 +36,7 @@ HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",,"%10%\%CUR_DIR%\%pointer%,
 "LoadingPickaxe.ani"
 "Redstonelink.cur"
 "Swordloading.ani"
+"Feather.cur"
 
 [Strings]
 CUR_DIR       = "Cursors\Minecraft Cursors"
@@ -46,7 +47,7 @@ work		  = "Swordloading.ani"
 busy		  = "Clock.ani"
 cross		  = "Compass.cur"
 text		  = "Beamstick.cur"
-hand		  = "Beamstick.cur"
+hand		  = "Feather.cur"
 unavailiable  = "Redstonelink.cur"
 vert		  = "Arrow4.cur"   
 horz		  = "Arrow3.cur"
